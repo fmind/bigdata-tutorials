@@ -1,0 +1,7 @@
+venv/
+datasets/
+exams/DOC-*
+exams/amc-*
+exams/data/
+gradebook.db
+.ipynb_checkpoints/

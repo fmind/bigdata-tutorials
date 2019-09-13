@@ -1,0 +1,13 @@
+# project
+invoke
+nbgrader
+jupyterlab
+# courses
+dask[bag]
+graphviz
+matplotlib
+pandas
+plotnine
+sklearn
+tinymongo
+ujson
