@@ -1,4 +1,5 @@
 venv/
+release/
 datasets/
 exams/DOC-*
 exams/amc-*
