@@ -14,6 +14,6 @@ def venv(c, force=False):
     c.run("venv/bin/jupyter serverextension enable --sys-prefix --py nbgrader")
 
 @task
-def grader(c):
+def work(c):
     """Start a nbgrader instance."""
     c.run("venv/bin/jupyter notebook")
