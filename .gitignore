@@ -1,8 +1,6 @@
 venv/
 release/
 datasets/
-exams/DOC-*
-exams/amc-*
-exams/data/
+grades.csv
 gradebook.db
 .ipynb_checkpoints/
